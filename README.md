@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 <p align="center">
-  <img src="fig/architecture.png" width="700"/>
+  <img src="fig/overall_architecture.pdf" width="700"/>
 </p>
 
 > Jiazheng Zhou, Xin Kang*, Kazuyuki Matsumoto, Linhuang Wang, Yupu Liu
